@@ -1,6 +1,6 @@
 # FromR
 
-FromR is a R-to-Julia tranpiler. It is mainly intended for translating numerical code and wrapping R packages.
+FromR is a R-to-Julia transpiler. It is mainly intended for translating numerical code and wrapping R packages.
 
 ## Usage
 
